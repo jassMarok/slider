@@ -1,0 +1,26 @@
+// bower:scss
+// endbower
+
+//
+// -
+//
+
+//Abstract Imports
+@import "abstracts/functions";
+@import "abstracts/mixins";
+@import "abstracts/variables";
+
+//Base Imports
+@import "base/animations";
+@import "base/base";
+@import "base/typography";
+@import "base/utilities";
+
+//Componets Imports
+@import "components/slider";
+//Layout Imports
+@import "layout/grid";
+@import "layout/header";
+@import "layout/footer";
+
+//Pages Import
